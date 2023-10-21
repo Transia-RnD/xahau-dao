@@ -8,17 +8,31 @@ The XLS structure is a comprehensive system designed to facilitate the developme
 
 Ideas form the foundation of the XLS structure. They are base-level concepts that require no technical understanding. They can either be a hook or an amendment, but it's likely that the user may not know the difference between the two.
 
+## Ideas Flow
+
+The flow of ideas in the XLS structure is a crucial part of the overall process. It is the initial stage where concepts are born and gradually refined into actionable proposals. The flow of ideas is divided into three main stages: Request for Information (RFI), Request for Proposal (RFP), and Request for Quotations (RFQ) for creating a proposal.
+
 ### Request for Information (RFI)
 
-An RFI is an idea that the user would like more information on. It's a preliminary stage where the user is trying to determine if the idea is feasible and worth pursuing.
+The RFI stage is the birthplace of ideas. At this stage, a user has a concept or a question that they believe could lead to an improvement or innovation in the field of distributed ledger technology (DLT). However, they may not have a clear understanding of the technical aspects or feasibility of their idea. 
+
+The RFI is a call to the community for more information. It's a way for the user to gather insights, feedback, and potential challenges related to their idea. The community can provide technical details, potential use cases, and even potential pitfalls or challenges that the idea might face.
 
 ### Request for Proposal (RFP)
 
-An RFP is an idea that is actively looking for a candidate to write the proposal. If marked as an RFP, anyone can donate to turn this idea into a proposal. There is an expiration date, and if it expires, the money is returned to the donors.
+Once the idea has been refined through the RFI stage, it moves on to the RFP stage. At this point, the user has a clearer understanding of their idea and its potential impact. They are now actively seeking a candidate who can transform this idea into a detailed proposal.
+
+The RFP is a call to the community for candidates who are capable of creating a proposal out of the idea. It's a way for the user to find individuals or teams with the necessary technical knowledge and skills to bring their idea to life. The RFP stage also includes a crowdfunding aspect, where community members can donate to support the creation of the proposal.
+
+### Request for Quotations (RFQ)
+
+The final stage in the flow of ideas is the RFQ stage. Once a candidate has been identified and the crowdfunding goal has been reached, the RFQ is issued. This is a call for the candidate to provide a detailed quotation for creating the proposal.
+
+The quotation should include a breakdown of the work involved, the resources required, and an estimate of the cost. This allows the community to understand the scope of the proposal and the resources needed to implement it. Once the quotation is accepted, the candidate can start working on the proposal, marking the transition from the idea stage to the proposal stage.
 
 ### Idea Persona
 
-The idea persona is someone who just has an idea for something. They have no understanding of Xahau, DLT, or Hooks.
+The idea persona in the XLS structure is someone who has a concept or idea for improvement in the field of distributed ledger technology (DLT). They may lack technical understanding but are crucial for initiating the process by seeking information and feedback from the community. They are open to learning and refining their idea, serving as the spark that ignites innovation in the XLS structure.
 
 ## Candidates
 
