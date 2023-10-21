@@ -2,7 +2,7 @@
 
 ## Overview
 
-The XLS structure is a comprehensive system designed to facilitate the development and implementation of ideas in the field of distributed ledger technology (DLT), specifically Xahau, Hooks, Rippled/Xrpld, and Github. The structure is divided into three main components: Ideas, Candidates, and Proposals. Each component plays a crucial role in the overall process, from the conception of an idea to its final implementation.
+The DAO structure is a comprehensive system designed to facilitate the development and implementation of ideas in the field of distributed ledger technology (DLT), specifically Xahau, Hooks, Rippled/Xrpld, and Github. The structure is divided into three main components: Ideas, Candidates, and Proposals. Each component plays a crucial role in the overall process, from the conception of an idea to its final implementation.
 
 ## Ideas (RFI/RFP)
 
