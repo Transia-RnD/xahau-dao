@@ -22,11 +22,27 @@ The idea persona is someone who just has an idea for something. They have no und
 
 ## Candidates
 
-Candidates are individuals or groups who are involved in the source code or implementation of DLT. They have a strong understanding of Xahau, Rippled/Xrpld, DLT, and Hooks. Candidates are ideally the ones who would take an idea and turn it into a proposal.
+Candidates are the driving force behind the transformation of ideas into tangible proposals and their eventual implementation. They are individuals or groups who are deeply involved in the source code or implementation of distributed ledger technology (DLT). They possess a strong understanding of Xahau, Rippled/Xrpld, DLT, and Hooks, which equips them with the necessary knowledge and skills to navigate the complexities of the field.
+
+### Role of Candidates
+
+Candidates play a pivotal role in the XLS structure. Their responsibilities include:
+
+1. **Understanding and Evaluating Ideas:** Candidates are expected to understand the ideas presented in the RFI or RFP stage. They evaluate the feasibility, potential impact, and technical requirements of these ideas.
+
+2. **Proposal Creation:** If an idea is deemed viable, candidates are responsible for creating a detailed proposal. This proposal outlines the technical approach, timeline, and resources required to bring the idea to life.
+
+3. **Crowdfunding Support:** Once the proposal is created and deployed on the DAO, candidates may assist in promoting the proposal to attract crowdfunding support.
+
+4. **Implementation:** If the proposal is successfully funded and approved by the governance, candidates are responsible for implementing the proposal. This involves writing the necessary code, testing its functionality, and making necessary adjustments based on feedback.
+
+5. **Review and Refinement:** Candidates also play a role in the review process. They are expected to mark their work for review once significant progress has been made. They then refine their work based on the feedback received during the review process.
+
+6. **Final Implementation:** Once the proposal is reviewed and approved, candidates merge the proposal, marking the final implementation of the idea.
 
 ### Candidate Persona
 
-The candidate persona is someone with a strong understanding of Xahau, Rippled/Xrpld, DLT, and Hooks.
+The candidate persona is someone with a strong understanding of Xahau, Rippled/Xrpld, DLT, and Hooks. They are technically proficient, detail-oriented, and capable of transforming abstract ideas into concrete solutions. They are also collaborative, ready to engage with the community for feedback and improvements.
 
 ## Proposals
 
