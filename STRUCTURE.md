@@ -6,11 +6,7 @@ The DAO structure is a comprehensive system designed to facilitate the developme
 
 ## Ideas (RFI/RFP)
 
-Ideas form the foundation of the XLS structure. They are base-level concepts that require no technical understanding. They can either be a hook or an amendment, but it's likely that the user may not know the difference between the two.
-
-## Ideas Flow
-
-The flow of ideas in the XLS structure is a crucial part of the overall process. It is the initial stage where concepts are born and gradually refined into actionable proposals. The flow of ideas is divided into three main stages: Request for Information (RFI), Request for Proposal (RFP), and Request for Quotations (RFQ) for creating a proposal.
+Ideas in the XLS structure is a crucial part of the overall process. It is the initial stage where concepts are born and gradually refined into actionable proposals. The flow of ideas is divided into three main stages: Request for Information (RFI), Request for Proposal (RFP), and Request for Quotations (RFQ) for creating a proposal.
 
 ### Request for Information (RFI)
 
