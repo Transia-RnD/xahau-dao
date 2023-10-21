@@ -1,4 +1,4 @@
-# XLS Structure: A Comprehensive Guide
+# DAO Structure: A Comprehensive Guide
 
 ## Overview
 
