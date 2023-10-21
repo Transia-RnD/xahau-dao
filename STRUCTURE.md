@@ -58,10 +58,6 @@ The candidate persona is someone with a strong understanding of Xahau, Rippled/X
 
 Proposals are the next step in the XLS structure. Technically, anyone can take an idea and create a proposal out of it, or just create a proposal without first creating an idea. Proposals are first created in the XLS discussion, and then the Transia DAO is used to crowdfund the proposal.
 
-### Proposal Persona
-
-The proposal persona is an approved candidate who has the technical knowledge and skills to turn an idea into a proposal and eventually implement it.
-
 ### Proposal Flow
 
 1. **Idea Creation (RFI or RFP):** The process begins with the creation of an idea, which can either be a Request for Information (RFI) or a Request for Proposal (RFP). An RFI is an idea that the user would like more information on, while an RFP is an idea that is actively looking for a candidate to write the proposal.
