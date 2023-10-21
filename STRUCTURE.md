@@ -4,7 +4,7 @@
 
 The DAO structure is a comprehensive system designed to facilitate the development and implementation of ideas in the field of distributed ledger technology (DLT), specifically Xahau, Hooks, Rippled/Xrpld, and Github. The structure is divided into three main components: Ideas, Candidates, and Proposals. Each component plays a crucial role in the overall process, from the conception of an idea to its final implementation.
 
-## Ideas (RFI/RFP)
+## Ideas
 
 Ideas in the XLS structure is a crucial part of the overall process. It is the initial stage where concepts are born and gradually refined into actionable proposals. The flow of ideas is divided into three main stages: Request for Information (RFI), Request for Proposal (RFP), and Request for Quotations (RFQ) for creating a proposal.
 
