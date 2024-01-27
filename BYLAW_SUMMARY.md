@@ -62,6 +62,10 @@
 
 ## Article VI – Officers
 
+### Note on Officer Responsibilities
+- Officers handle day-to-day operations but are not involved in approving budgets or proposals.
+- Community members are responsible for presenting proposals to the corporation.
+
 1. – Officers
 - The corporation has several officers including a Chair of the Board, Vice Chair, Executive Director, Treasurer, Secretary, and any others appointed by the Board of Members.
 - The Executive Director fulfills the role of a president as required by law.
@@ -108,7 +112,3 @@
 
 11. – Indemnity
 - Officers are indemnified as required or allowed by law.
-
-### Note on Officer Responsibilities
-- Officers handle day-to-day operations but are not involved in approving budgets or proposals.
-- Community members are responsible for presenting proposals to the corporation.
