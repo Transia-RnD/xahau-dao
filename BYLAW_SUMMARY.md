@@ -16,30 +16,7 @@
 4. **Dues, Fees, and Assessments**
 - Members pay fees as approved by the Board, with policies for in-kind contributions and waivers under certain conditions.
 
-## ARTICLE IIII – Board of Members
-
-
-
-
-## ARTICLE III – Membership
-
-1. **Classes of Membership**
-- There are two classes of membership: Developer and Community (full members with voting rights) and Associates (non-voting participants).
-- "Member" refers to individuals or entities in the Developer or Community class.
-
-2. **Membership Qualifications**
-- Developer Members: Individuals or entities with technical expertise and experience in Distributed Ledger Technology and related open source technologies. They oversee, review, and approve code changes to the DAO's source code as outlined in Article V and contribute to technical development and innovation within the DAO's ecosystem.
-- Community Members: Individuals or entities engaged in or supporting the production, manufacture, use, sale, or standardization of Distributed Ledger Technology or other related open source-based technologies. They play various roles and have interests in the broader application and adoption of these technologies. Membership ceases upon resignation or expulsion.
-- Associate Members: Profit, non-profit, and government entities supporting open source technologies, with no voting rights.
-
-3. **Affiliates; Additional Rights; Limitations on Voting Rights of Members**
-- Affiliates: Non-member, non-voting classes associated with the corporation, with rights specified by the Board.
-- Voting Rights: Developer and Community Members vote only on specific matters; Associates and Affiliates do not vote.
-
-4. **Dues, Fees, and Assessments**
-- Members pay fees as approved by the Board, with policies for in-kind contributions and waivers under certain conditions.
-
-## ARTICLE IIII – Board of Members
+## ARTICLE IV – Board of Members
 
 1. **Composition**: The Board of Members consists of the entire membership list of the DAO, without an elected subset of members serving as directors. Every member in the Developer and Community classes has equal standing within the Board of Members.
 
