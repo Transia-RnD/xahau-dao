@@ -1,4 +1,4 @@
-# DAO Structure: A Comprehensive Guide
+# Proposal Process: A Comprehensive Guide
 
 ## Overview
 
