@@ -21,36 +21,21 @@
 
 ## ARTICLE IIII – Board of Members
 
-1. **Authority and Control**: The Board of Members has the authority to exercise all corporate powers and control the business affairs of the corporation, within the boundaries set by the Articles, Bylaws, and applicable law.
+1. **Composition**: The Board of Members consists of the entire membership list of the DAO, without an elected subset of members serving as directors. Every member in the Developer and Community classes has equal standing within the Board of Members.
 
-2. **Directorial Duties**: The Board of Members must adhere to the duties outlined in the Bylaws when acting as directors.
+2. **Authority and Control**: The collective Board of Members exercises all corporate powers and controls the business affairs of the corporation, within the boundaries set by the Articles, Bylaws, and applicable law. This collective approach ensures that all members have a direct say in the governance of the DAO.
 
-3. **Management Decisions**: The Board has the authority to make key management decisions, including hiring and firing officers, agents, employees, and contractors, and setting their compensation.
+3. **Decision-Making Process**: Decisions are made through a democratic process, with each member having a vote on matters brought before the Board of Members. The specific procedures for voting and decision-making are outlined in the Bylaws.
 
-4. **Contractual Powers**: The Board can authorize officers or agents to enter into contracts on behalf of the corporation.
+4. **Meetings**: Meetings of the Board of Members are held as specified in the Bylaws, with provisions for regular, special, and emergency meetings to address the needs of the DAO.
 
-5. **Delegation**: The Board can delegate responsibilities and authority to committees, officers, and agents as needed.
+5. **Responsibilities**: Each member of the Board of Members is responsible for actively participating in the governance of the DAO, including but not limited to:
+   - Voting on key decisions affecting the DAO's direction and operations.
+   - Proposing initiatives, projects, and changes for consideration by the membership.
+   - Engaging in discussions and deliberations to guide the DAO's strategic planning.
 
-## ARTICLE V – Committee of Developers
+6. **Communication and Transparency**: The Board of Members is committed to maintaining open communication channels and transparency in its operations. Information about decisions, ongoing projects, and the financial status of the DAO is made accessible to all members.
 
-1. **Establishment of the Committee of Developers**: Upon the creation of the DAO, a special committee known as the Committee of Developers shall be established to oversee, review, and approve code changes to the source code of the DAO.
+7. **Amendments and Revisions**: The structure and processes governing the Board of Members may be amended or revised through a majority vote of the membership, in accordance with the procedures outlined in the Bylaws. Any changes must be consistent with the Articles, Bylaws, and applicable law.
 
-2. **Composition**: The Committee of Developers shall consist exclusively of Developer Members. These individuals must possess the requisite technical expertise and experience in Distributed Ledger Technology and related open source technologies.
-
-3. **Election of Committee Members**: Members of the Committee of Developers shall be elected by the Developer and Community Members of the DAO. The election process shall be conducted in accordance with the procedures outlined in the Bylaws.
-
-4. **Term and Rotation**: The term for each Committee Member shall be defined in the Bylaws. A system of rotation may be established to ensure the continuous infusion of fresh perspectives and expertise.
-
-5. **Responsibilities**: The Committee of Developers is responsible for:
-   - Reviewing proposed code changes to ensure they meet the highest standards of quality, security, and alignment with the DAO's objectives.
-   - Approving or rejecting code changes following a thorough evaluation process.
-   - Maintaining documentation of all code reviews and decisions for transparency and accountability.
-   - Advising the Board of Members on technical matters related to the DAO's source code and infrastructure.
-
-6. **Voting Rights and Procedures**: Only Developer Members of the Committee of Developers shall have the right to vote on code changes. The voting procedures shall be detailed in the Bylaws, ensuring a fair and efficient decision-making process.
-
-7. **Meetings**: The Committee of Developers shall meet regularly, with the frequency and format of meetings to be specified in the Bylaws. Special meetings may be called as necessary to address urgent code-related issues.
-
-8. **Reporting**: The Committee of Developers shall report its activities and decisions to the Board of Members at regular intervals or as required by the Bylaws, to maintain transparency and accountability within the DAO.
-
-9. **Amendments**: The structure, responsibilities, and processes of the Committee of Developers may be amended by a majority vote of the Board of Members, as long as such amendments do not conflict with the Articles, Bylaws, or applicable law.
+8. **Limitations**: No individual member or group of members has the authority to speak for or bind the DAO without the express consent of the Board of Members as a whole, as determined through the established decision-making process.
