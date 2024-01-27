@@ -60,7 +60,7 @@
 
 9. **Amendments**: The structure, responsibilities, and processes of the Committee of Developers may be amended by a majority vote of the Board of Members, as long as such amendments do not conflict with the Articles, Bylaws, or applicable law.
 
-### Summary of Article VI – Officers
+## Article VI – Officers
 
 1. – Officers
 - The corporation has several officers including a Chair of the Board, Vice Chair, Executive Director, Treasurer, Secretary, and any others appointed by the Board of Members.
