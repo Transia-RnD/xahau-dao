@@ -58,31 +58,39 @@ The candidate persona is someone with a strong understanding of Xahau, Rippled/X
 
 Proposals are the next step in the XLS structure. Technically, anyone can take an idea and create a proposal out of it, or just create a proposal without first creating an idea. Proposals are first created in the XLS discussion, and then the Transia DAO is used to crowdfund the proposal.
 
+### Voting: Treasury-Funded Proposals
+
+Proposals funded by the Treasury are subject to a voting process that involves different committees, each with its own focus and voting threshold. The committees and their respective voting thresholds are as follows:
+
+1. **Executive Committee:** The Executive Committee decides on proposals with a voting threshold of 70% in favor and 30% against. This committee typically handles high-level decisions that affect the overall direction and strategy of the DAO.
+
+2. **Investment Committee:** The Investment Committee makes decisions on proposals with a 70/30 voting threshold. This committee focuses on proposals that involve financial investments or asset management within the DAO.
+
+3. **Marketing Committee:** The Marketing Committee's decisions are made by the community with a 50/50 voting threshold. This committee is responsible for proposals related to marketing initiatives, outreach, and community engagement.
+
+4. **Development Committee:** The Development Committee decides on proposals with a 70/30 voting threshold. This committee is tasked with overseeing proposals that pertain to the technical development and improvement of the DAO's infrastructure and projects.
+
+### Donation: Community-Funded Proposals
+
+Proposals funded by community donations follow a different process. Community members can contribute directly to proposals they support, and the success of these proposals is determined by the amount of funding they receive from the community. This pathway allows for a more grassroots approach to funding, where the community's willingness to donate reflects the proposal's popularity and perceived value.
+
 ### Proposal Flow
 
-1. **Idea Creation (RFI or RFP):** The process begins with the creation of an idea, which can either be a Request for Information (RFI) or a Request for Proposal (RFP). An RFI is an idea that the user would like more information on, while an RFP is an idea that is actively looking for a candidate to write the proposal.
+1. **Idea Creation (RFI or RFP):** The process begins with the creation of an idea, which can either be a Request for Information (RFI) or a Request for Proposal (RFP).
 
-2. **XLS Github Proposal Creation:** Once the idea is fully formed and has been discussed, it is turned into a proposal. The proposal is first created on Github, where it is open for further discussion and refinement.
+2. **XLS Github Proposal Creation:** The idea is turned into a proposal on Github, where it is open for discussion and refinement.
 
-    - **Discussion and Refinement:** The proposal is discussed and refined based on feedback from the community. This is a crucial step to ensure that the proposal is feasible and beneficial.
+3. **DAO Proposal Creation/Deployment:** The refined proposal is created and deployed on the DAO, where it will be funded either by Voting (Treasury) or Donation (Community).
 
-3. **DAO Proposal Creation/Deployment:** After the proposal has been refined, it is then created and deployed on the DAO. This is where the crowdfunding of the proposal takes place.
+    - **Voting (Treasury):** The proposal is subject to a vote by the relevant committee or the community, depending on the nature of the proposal. The voting thresholds of 70/30 or 50/50 must be met for the proposal to be funded.
+    - **Donation (Community):** The community can donate to the proposal. If the proposal reaches its funding goal before the expiration date, it moves on to the next step. If it doesn't reach its goal, the money is returned to the donors.
 
-    - **Crowdfunding:** The community can donate to the proposal. If the proposal reaches its funding goal before the expiration date, it moves on to the next step. If it doesn't reach its goal, the money is returned to the donors.
+4. **Funding Goal Reached & Request for Quotations (RFQ):** Once the funding goal is reached, an RFQ is issued for developers or teams to submit their quotations.
 
-4. **Goal Reached & Request for Quotations (RFQ):** Once the funding goal is reached, an RFQ is issued. This is a call for developers or teams who can implement the proposal to submit their quotations.
+5. **Governance Votes on Developer/Quote:** The governance votes on the developer or quote, and the chosen party begins work on the proposal.
 
-    - **Quotation Submission:** Developers or teams submit their quotations, outlining how they plan to implement the proposal and how much it will cost.
+6. **Developer Marks for Review:** The developer or team marks the proposal for review after significant progress.
 
-5. **Governance Votes on Developer/Quote:** The governance then votes on the developer or quote. The developer or team with the most votes is chosen to implement the proposal.
+7. **Review Process:** The proposal undergoes multiple reviews to ensure proper implementation.
 
-    - **Initial Payout Disbursed:** Once a developer or team is chosen, the initial payout is disbursed. This is to ensure that the developer or team has the necessary resources to start working on the proposal.
-
-6. **Developer Marks for Review:** After the developer or team has done a significant amount of work on the proposal, they mark it for review.
-
-    - **Review, Review, Review:** The proposal is then reviewed multiple times to ensure that it is being implemented correctly and according to the initial proposal.
-
-7. **Merged & Final Payouts Disbursed:** Once the proposal is reviewed and approved, it is merged. The final payouts are then disbursed to the developer or team.
-
-    - **Final Review and Approval:** The proposal is given a final review and approval before it is merged. This is to ensure that the proposal has been implemented correctly and is ready to be launched.
-    - **Final Payouts Disbursed:** After the proposal is merged, the final payouts are disbursed to the developer or team. This is the final step in the proposal flow.
+8. **Merged & Final Payouts Disbursed:** Once approved, the proposal is merged, and final payouts are disbursed.
