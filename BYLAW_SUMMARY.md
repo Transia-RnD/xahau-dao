@@ -60,7 +60,7 @@
 
 9. **Amendments**: The structure, responsibilities, and processes of the Committee of Developers may be amended by a majority vote of the Board of Members, as long as such amendments do not conflict with the Articles, Bylaws, or applicable law.
 
-## Article VI – Officers
+## Article VI – Committee of Officers
 
 ### Note on Officer Responsibilities
 - Officers handle day-to-day operations but are not involved in approving budgets or proposals.
@@ -112,3 +112,49 @@
 
 11. – Indemnity
 - Officers are indemnified as required or allowed by law.
+
+### ARTICLE VII – Committee of Financial Professionals
+
+1. **Establishment of the Committee of Financial Professionals**: A Committee of Financial Professionals shall be established to oversee the financial investments and budget allocations of the DAO.
+
+2. **Composition**: The Committee of Financial Professionals shall consist of members with expertise in finance, investment, and economic strategy. These individuals must be Community Members in good standing with the DAO.
+
+3. **Election of Committee Members**: Members of the Committee of Financial Professionals shall be elected by the Board of Members. The election process shall be conducted in accordance with the procedures outlined in the Bylaws.
+
+4. **Responsibilities**:
+   - Determining the amount of funds to be allocated for investment purposes.
+   - Deciding on the investment strategies and vehicles for the budgeted amount.
+   - Monitoring and reporting on the performance of investments.
+   - Advising the Board of Members on financial matters and potential risks.
+
+5. **Voting Rights and Procedures**: The Committee of Financial Professionals shall operate on a majority voting basis. Specific voting procedures shall be detailed in the Bylaws.
+
+6. **Meetings**: The Committee shall meet regularly, with the frequency and format of meetings to be specified in the Bylaws. Special meetings may be called as necessary to address urgent financial matters.
+
+7. **Reporting**: The Committee shall report its activities and decisions to the Board of Members at regular intervals or as required by the Bylaws, to maintain transparency and accountability within the DAO.
+
+8. **Amendments**: The structure, responsibilities, and processes of the Committee of Financial Professionals may be amended by a majority vote of the Board of Members, as long as such amendments do not conflict with the Articles, Bylaws, or applicable law.
+
+### ARTICLE VIII – Committee of Investors
+
+1. **Establishment of the Committee of Investors**: A Committee of Investors shall be established to evaluate and vote on projects or crowdsourced initiatives involving equity investment or the provision of grants.
+
+2. **Composition**: The Committee of Investors shall consist of members with experience in venture capital, private equity, and grant-making. These individuals must be Community Members in good standing with the DAO.
+
+3. **Election of Committee Members**: Members of the Committee of Investors shall be elected by the Board of Members. The election process shall be conducted in accordance with the procedures outlined in the Bylaws.
+
+4. **Responsibilities**:
+   - Reviewing proposals for projects or crowdsourced initiatives that involve equity or grants.
+   - Voting on which projects or initiatives should receive investment or grant funding.
+   - Ensuring that selected projects align with the DAO's objectives and values.
+   - Monitoring the progress and outcomes of funded projects.
+
+5. **Voting Rights and Procedures**: The Committee of Investors shall operate on a majority voting basis. Specific voting procedures shall be detailed in the Bylaws.
+
+6. **Meetings**: The Committee shall meet as needed to review proposals, with the frequency and format of meetings to be specified in the Bylaws.
+
+7. **Reporting**: The Committee shall report its activities and decisions to the Board of Members at regular intervals or as required by the Bylaws, to maintain transparency and accountability within the DAO.
+
+8. **Amendments**: The structure, responsibilities, and processes of the Committee of Investors may be amended by a majority vote of the Board of Members, as long as such amendments do not conflict with the Articles, Bylaws, or applicable law.
+
+These proposed committees would add layers of specialized oversight and decision-making to the DAO's financial and investment activities, ensuring that members with the appropriate expertise are involved in guiding the DAO's economic strategies and project funding.
